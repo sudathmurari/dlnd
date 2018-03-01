@@ -1,2 +1,0 @@
-# first-neural-network
-dlnd
